@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Solution {
     public static Map<String, String> createMap() {
-        //напишите тут ваш код
+        //напишите тут ваш кодд
         Map<String, String> map = new HashMap<String, String>();
         map.put()
     }
